@@ -3,6 +3,8 @@
 ## Project Overview
 AI Media Trends Insight Analyzer is an advanced analytics platform that visualizes and analyzes the impact of Artificial Intelligence on global media and communication trends. The system processes historical data to identify key trends and provides actionable insights through interactive visualizations and AI-powered analysis.
 
+🌐 **[Live Demo: Try the app now!](https://ai-media-trends-analysis.streamlit.app/)**
+
 ## Key Features 🌟
 - **Interactive Comparative Analysis** 📈
   - Compare AI adoption rates between countries or industries
@@ -18,6 +20,16 @@ AI Media Trends Insight Analyzer is an advanced analytics platform that visualiz
   - Interactive line and bar charts
   - Comparative trend analysis
   - Custom filtering and time-based analysis
+
+## Live Application 🚀
+The application is deployed and accessible at:  
+**[https://ai-media-trends-analysis.streamlit.app/](https://ai-media-trends-analysis.streamlit.app/)**
+
+Features available in the live demo:
+- Real-time data analysis and visualization
+- Interactive country and industry comparisons
+- AI-powered insights generation
+- Dynamic filtering and trend analysis
 
 ## Tech Stack 🛠️
 - 🐍 **Python 3.9+** – Core programming language for all modules
