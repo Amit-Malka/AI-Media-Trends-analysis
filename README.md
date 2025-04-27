@@ -120,8 +120,8 @@ ai-media-trends-insight/
 ## Contributing 🤝
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Raw data
+https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025
 
 ---
 
